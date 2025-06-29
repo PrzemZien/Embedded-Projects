@@ -18,10 +18,9 @@
 
 /*
 *******************************************************************************
-  * Autorzy:	Arseniy Sialitski
-  *		Przemysław Ziencik
+  * Autorzy:	Przemysław Ziencik
   * Ostatnia aktualizacja: 10.06.2025
-  * Opis: Main naszego programu
+  * Opis: Main
   *
   *
 ******************************************************************************
