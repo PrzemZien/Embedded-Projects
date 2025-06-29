@@ -2,13 +2,6 @@
 /*                                                                           */
 /* SYIR - Systemy Internetu Rzeczy LAB                                       */
 /*                                                                           */
-/* Autorzy:  Arkadiusz Luczyk; Jakub Jasinski; Marek Niewi??ski               */
-/* Email  :  arkadiusz.luczyk@pw.edu.pl                                      */
-/*           jakub.jasinski@pw.edu.pl                                        */
-/*           marek.niewinski@pw.edu.pl                                       */
-/*                                                                           */
-/*     Do wy??Ä?cznego u??ytku w ramach zajÄ?Ä? SYIR                              */
-/*     Do wylacznego uzytku w ramach zajec SYIR                              */
 /*                                                                           */
 /* ************************************************************************* */
 
