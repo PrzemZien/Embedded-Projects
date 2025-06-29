@@ -1,7 +1,6 @@
 /*
 *******************************************************************************
-  * Autorzy:	Arseniy Sialitski
-  *		Przemysław Ziencik
+  * Autorzy:	Przemysław Ziencik
   * Ostatnia aktualizacja: 10.06.2025
   * Opis: Biblioteka z funkcjami do obsługi komunikacji typu uart
   *
