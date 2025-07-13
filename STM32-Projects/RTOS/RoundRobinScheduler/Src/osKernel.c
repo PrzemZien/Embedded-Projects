@@ -42,7 +42,7 @@ void osKernelStack_init(int thread){
 	/**/
 	tcbs[thread].stackPt = &TCB_STACK[thread][STACK_SIZE - 16];
 
-	/*Set bti21 (T-bit) int PSR to 1, to operate in thumb mode*/
+	/*Sets bti21 (T-bit) int PSR to 1, to operate in thumb mode*/
     TCB_STACK[thread][STACK_SIZE-1] = (1U << PSR_T_BIT);  // PSR - Thumb bit
     TCB_STACK[thread][STACK_SIZE-2] = NEUTRAL_VAL; // PC (zostanie nadpisany)
     TCB_STACK[thread][STACK_SIZE-3] = NEUTRAL_VAL; // LR
