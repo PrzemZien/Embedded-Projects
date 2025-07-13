@@ -4,7 +4,7 @@
  *  Created on: Jul 4, 2025
  *      Author: przem
  */
-
+// I dont use this file in this project
 #include "timebase.h"
 #include "stm32f4xx.h"
 
@@ -65,7 +65,7 @@ uint32_t get_tick(void){
 	__enable_irq(); // turns on global interrupts
 	return current_tick_p;
 }
-
+/*I turned this to static bc I use SysTick_Handler in osKernel but not this one:) */
 static void SysTick_Handler(void){
 	tick_increment();
 }
